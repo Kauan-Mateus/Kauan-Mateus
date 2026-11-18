@@ -12,7 +12,7 @@ Utilizo Debian GNU/Linux diariamente e mantenho uma rotina de estudos em program
 
 ## Conhecimentos práticos
 
-- Suporte remoto e atendimento técnico
+- Suporte remoto e orientação de usuários
 - Análise e investigação de problemas
 - Organização e registro de solicitações
 - Comunicação com clientes e orientação de usuários
