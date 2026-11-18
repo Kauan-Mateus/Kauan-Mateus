@@ -1,69 +1,42 @@
-# Olá, eu sou Kauan Mateus 👋
+# Kauan Mateus
 
-🎓 Estudante de Ciência da Computação — UNOPAR  
-💻 Desenvolvimento de Sistemas e Backend  
-☕ Java e Python em aprendizado  
-🐧 Usuário diário de Debian GNU/Linux  
-⚙️ Interesse em Automação, APIs e Inteligência Artificial Aplicada  
+Estudante de Ciência da Computação, em formação para atuar na área de Tecnologia da Informação.
 
-## Sobre mim
+## Sobre
 
-Sou estudante de Ciência da Computação e estou construindo minha trajetória profissional na área de Tecnologia da Informação, com foco em desenvolvimento de sistemas, programação e automação.
+Tenho experiência profissional em suporte remoto por chat e voz, com atendimento, investigação de problemas e orientação de clientes no uso de sistemas, aplicativos e serviços digitais.
 
-Busco desenvolver soluções funcionais, compreender a arquitetura por trás dos sistemas e utilizar tecnologia para resolver problemas reais.
+Busco direcionar essa experiência para oportunidades em suporte de TI e desenvolvimento de sistemas, com interesse em backend, integração de sistemas e automação de processos.
 
-Tenho interesse em desenvolvimento backend, integração entre sistemas, APIs, bancos de dados, ambientes Linux e aplicação de inteligência artificial em processos de desenvolvimento.
+Utilizo Debian GNU/Linux diariamente e mantenho uma rotina de estudos em programação e desenvolvimento.
 
-Utilizo ferramentas de assistência à programação, como o Codex, para apoiar a construção e evolução de projetos, sempre buscando compreender, testar e aprimorar as soluções desenvolvidas.
+## Conhecimentos práticos
 
-Minha experiência profissional em suporte N1 também contribui para minha capacidade de analisar problemas, investigar falhas e buscar soluções.
+- Suporte remoto e atendimento técnico
+- Análise e investigação de problemas
+- Organização e registro de solicitações
+- Comunicação com clientes e orientação de usuários
+- Uso diário de Debian GNU/Linux
 
-## Áreas de interesse
-
-- Desenvolvimento de sistemas
-- Desenvolvimento backend
-- Programação com Java e Python
-- Automação de processos
-- Integração de APIs e webhooks
-- Bancos de dados e SQL
-- Linux e infraestrutura
-- Inteligência artificial aplicada ao desenvolvimento
-
-## Tecnologias e ferramentas
-
-### Programação
+## Em aprendizado
 
 - Java
 - Python
-
-### Desenvolvimento
-
 - Git e GitHub
 - APIs REST
 - SQL
-
-### Ambiente
-
-- Debian GNU/Linux
-- Terminal Linux
-- Windows
-
-### Ferramentas
-
-- OpenAI Codex
-- Ferramentas de desenvolvimento assistido por IA
+- Desenvolvimento backend
 
 ## Formação
 
-**Ciência da Computação — UNOPAR**
-
+**Ciência da Computação — UNOPAR**  
 3º semestre — Em andamento.
 
-## Objetivo profissional
+## Objetivo
 
-Evoluir na área de Tecnologia da Informação, participando do desenvolvimento de sistemas, automações e soluções tecnológicas. Busco transformar conhecimento acadêmico em experiência prática por meio de projetos, colaboração e aprendizado contínuo.
+Evoluir na área de Tecnologia da Informação, conectando minha experiência em suporte ao desenvolvimento de sistemas e à construção de soluções práticas.
 
 ## Contato
 
-- GitHub: [@Kauan-Mateus](https://github.com/Kauan-Mateus)
+- GitHub: [Kauan-Mateus](https://github.com/Kauan-Mateus)
 - E-mail: kauan0052@gmail.com
