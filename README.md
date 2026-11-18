@@ -29,7 +29,7 @@ Utilizo Debian GNU/Linux diariamente e mantenho uma rotina de estudos em program
 
 ## Formação
 
-**Ciência da Computação — UNOPAR**  
+**Ciência da Computação — UNOPAR**
 3º semestre — Em andamento.
 
 ## Objetivo
@@ -39,4 +39,5 @@ Evoluir na área de Tecnologia da Informação, conectando minha experiência em
 ## Contato
 
 - GitHub: [Kauan-Mateus](https://github.com/Kauan-Mateus)
+- LinkedIn: https://www.linkedin.com/in/kauan-mateus-292a2244b/
 - E-mail: kauan0052@gmail.com
